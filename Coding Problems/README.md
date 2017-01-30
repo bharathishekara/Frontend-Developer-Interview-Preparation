@@ -1,6 +1,6 @@
 # Code Problems
 
-- [ ] - anagram-detection
+- [x] - anagram-detection
 - [ ] - array-pair-sum
 - [ ] - balanced-brackets
 - [ ] - binary-search-tree-check	
