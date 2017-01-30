@@ -1,8 +1,17 @@
 /*
 	Anagram: A word or a pharse can be formed by rearranging the letters of another word or pharse
+
+	Problem 1:
+
+	Write a function that accepts two parameters, word1 and word2 which will be a strings. 
+	Determine the word2 is anagram of the word1.
+
+	Problem 2:
+	Write a function that accepts one parameter, array of words as string. 
+	Determine the number of anagram present and return also list the anagrams.
 */ 
 
-// Example 1
+// Problem 1
 // To detect 2 words are anagram or not
 function anagram(word1, word2) {
 	// Check if wording lengths are not same then return false
@@ -19,7 +28,7 @@ function anagram(word1, word2) {
 	return false;
 }
 
-// Example 2
+// Problem 2
 // To detect an array of words and group them accordingly
 function anagramAll(arrOfWords) {
 	var obj = {};
