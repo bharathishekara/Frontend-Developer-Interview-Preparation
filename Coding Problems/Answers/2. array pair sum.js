@@ -32,7 +32,9 @@ function findPairSum(arr, sum) {
 
 // Example
 findPairSum([3, 4, 5, 4, 4], 8); // [[3, 5], [4, 4], [4, 4], [4, 4]]
-
 findPairSum([3, 4, 5, 6, 7], 10); // [[4, 6], [3, 7]]
-
 findPairSum([1, 1, 2, 3, 4], 4); // [[1, 3]]
+
+//  Complexity: O(n²)
+
+// Problem 2 - Optimize the above solution to O(n)
