@@ -2,7 +2,7 @@
 
 - [x] - anagram-detection
 - [x] - array-pair-sum
-- [x] - Balanced Brackets
+- [x] - balanced-brackets
 - [ ] - binary-search-tree-check	
 - [ ] - binary-search-tree	
 - [ ] - bubble-sort	
