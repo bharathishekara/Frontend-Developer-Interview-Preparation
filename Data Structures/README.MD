@@ -2,8 +2,8 @@
 
 ## Analysis of Algorithms
 
-- [ ] - Asymptotic Analysis
-- [ ] - Asymptotic Notations
+- [x] - Asymptotic Analysis
+- [x] - Asymptotic Notations
 
 ## Data Structure
 

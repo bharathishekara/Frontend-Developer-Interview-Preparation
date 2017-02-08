@@ -37,7 +37,7 @@
 - [x] - Callbacks
 - [x] - Promises
 - [x] - Callback vs Promise
-- [ ] - Deep checking in object
+- [x] - Deep checking in object
 - [ ] - Curing in JS
 - [ ] - XMLHttpRequest
 - [ ] - Ajax
