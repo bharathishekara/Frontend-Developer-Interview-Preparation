@@ -7,7 +7,7 @@
 
 ## Data Structure
 
-- [ ] - Linked List
+- [x] - Linked List
 - [ ] - Doubly Linked List
 - [ ] - Queue
 - [ ] - Stack
